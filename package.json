@@ -1,0 +1,25 @@
+{
+  "name": "js-iotinabox",
+  "version": "1.0.0",
+  "description": "JS library to interact with IoT in a Box API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myDevicesIoT/js-iotinabox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myDevicesIoT/js-iotinabox/issues"
+  },
+  "homepage": "https://github.com/myDevicesIoT/js-iotinabox#readme",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "superagent": "^5.0.2"
+  }
+}
