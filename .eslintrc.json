@@ -17,7 +17,7 @@
     "no-unused-vars": 2,
     "no-undef": 2,
     "comma-dangle": ["error", "never"],
-    "no-underscore-dangle": ["error"],
+    "no-underscore-dangle": ["error", { "allow": ["_status"] }],
     "semi": ["error", "always"],
     "no-var": 2
   }
