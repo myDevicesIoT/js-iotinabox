@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myDevicesIoT/js-iotinabox/tree/feat/public-sharing"
+    "url": "git+https://github.com/myDevicesIoT/js-iotinabox.git"
   },
   "bugs": {
     "url": "https://github.com/myDevicesIoT/js-iotinabox/issues"
